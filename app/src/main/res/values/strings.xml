@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ImageApp</string>
+    <string name="get_json">Get JSON</string>
+    <string name="arc_pgd_title">Loading</string>
+    <string name="arc_pgd_message">Wait...</string>
+    <string name="arc_error_url">Error url</string>
+    <string name="arc_error_io">Error network</string>
+    <string name="arc_error_json">Error response</string>
+</resources>
